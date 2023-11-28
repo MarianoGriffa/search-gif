@@ -1,8 +1,31 @@
-# React + Vite
+# SearchGif - Encontra tu Gif!
+ 
+Realizamos este mini proyecto que se encarga de la busqueda de gifs.
+### [**¡Dale click -> SearchGif!**](https://memo-gif-expert.netlify.app)  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Clonar el repositorio:    
+   
+```
+git clone https://github.com/MarianoGriffa/search-gif.git
+``` 
+ 
+2. Navegar al directorio del proyecto: 
 
-Currently, two official plugins are available:
+```
+cd search-gif-main
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Iniciar la aplicación:
+
+```
+npm run dev
+```
+
+4. La aplicación debería iniciarse en tu navegador. Podrás interactuar con ella en el puerto local 5173:
+
+```
+http://127.0.0.1:5173/ 
+
+```
+
+### [**¡Busca tu Gif!**](https://memo-gif-expert.netlify.app)  
